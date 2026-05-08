@@ -3,7 +3,7 @@ class Afm < Formula
   homepage "https://github.com/scouzi1966/maclocal-api"
   url "https://github.com/scouzi1966/maclocal-api/releases/download/v0.9.12/afm-v0.9.12-arm64.tar.gz"
   version "0.9.12"
-  sha256 "d0ed82bb728dbc76307cfa7b9dc4ae768643d1ac1c65f39f486860f1b6d0495a"
+  sha256 "da52325429c89d9d8c743de4dc6454e9ed2327adf2fe166d34bbbbd9a44e8255"
 
   depends_on arch: :arm64
   depends_on :macos
